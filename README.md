@@ -1,2 +1,2 @@
-# logger.php
+#logger-mail
 Email Logger Shell Backdoor
